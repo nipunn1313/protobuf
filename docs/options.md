@@ -300,3 +300,7 @@ with info about your project (name and website) so we can add an entry for you.
 1. Protoc-gen-go-svc
    * Website: https://github.com/dane/protoc-gen-go-svc
    * Extension: 1140
+
+1. mypy-protobuf
+   * Website: https://github.com/nipunn1313/mypy-protobuf
+   * Extension: 1141-1149
